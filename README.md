@@ -5,6 +5,7 @@ demo repo!!
 
 Watch Youtube!
 
-## New Branch!!!
+## local dev
 
-this is a new branch!
+1. open index.html in your browser!
+
